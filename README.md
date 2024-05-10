@@ -8,6 +8,8 @@
  
   <img width="952" alt="Screenshot 2024-05-09 190226" src="https://github.com/kunalr23/my-curd-app/assets/169359717/6d795d13-8cfe-4e21-877b-040a5dceee25">
 
+
+<h2 align="center">Demo Video</h2>
   [Uploading Recording 2024-05-09 185533 new (1).mp4…](https://github.com/kunalr23/my-curd-app/assets/169359717/7f054206-6e21-4151-be10-e5a73b30f8aa)
 
 <p align="center">
@@ -20,6 +22,7 @@
 
 - [React](http://reactjs.org)
 - [SweetAlert2](https://sweetalert2.github.io)
+- [Cloud Firestore](https://firebase.google.com/)
 
 ## Development
 
