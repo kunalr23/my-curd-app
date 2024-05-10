@@ -11,6 +11,8 @@
   <a href="https://github.com/SafdarJamal/crud-app/releases">
     <img src="https://img.shields.io/github/v/release/SafdarJamal/crud-app" alt="GitHub Release (latest by date)" />
   </a>
+  <img width="952" alt="Screenshot 2024-05-09 190226" src="https://github.com/kunalr23/my-curd-app/assets/169359717/6d795d13-8cfe-4e21-877b-040a5dceee25">
+
   <a href="https://github.com/SafdarJamal/crud-app/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/SafdarJamal/crud-app" alt="License" />
   </a>
