@@ -8,7 +8,7 @@
  
   <img width="952" alt="Screenshot 2024-05-09 190226" src="https://github.com/kunalr23/my-curd-app/assets/169359717/6d795d13-8cfe-4e21-877b-040a5dceee25">
 
-  
+  Uploading Recording 2024-05-09 185533 new (1).mp4…
 
 <p align="center">
   A simple <a href="https://www.codecademy.com/articles/what-is-crud">CRUD</a> application built with <a href="https://reactjs.org">React</a>.
