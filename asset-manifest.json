@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/kunalr23/my-curd-app.git/static/css/main.fe1328a2.chunk.css",
+    "main.js": "/kunalr23/my-curd-app.git/static/js/main.57609fcc.chunk.js",
+    "main.js.map": "/kunalr23/my-curd-app.git/static/js/main.57609fcc.chunk.js.map",
+    "runtime-main.js": "/kunalr23/my-curd-app.git/static/js/runtime-main.a507b002.js",
+    "runtime-main.js.map": "/kunalr23/my-curd-app.git/static/js/runtime-main.a507b002.js.map",
+    "static/js/2.de3671df.chunk.js": "/kunalr23/my-curd-app.git/static/js/2.de3671df.chunk.js",
+    "static/js/2.de3671df.chunk.js.map": "/kunalr23/my-curd-app.git/static/js/2.de3671df.chunk.js.map",
+    "index.html": "/kunalr23/my-curd-app.git/index.html",
+    "static/css/main.fe1328a2.chunk.css.map": "/kunalr23/my-curd-app.git/static/css/main.fe1328a2.chunk.css.map",
+    "static/js/2.de3671df.chunk.js.LICENSE.txt": "/kunalr23/my-curd-app.git/static/js/2.de3671df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a507b002.js",
+    "static/js/2.de3671df.chunk.js",
+    "static/css/main.fe1328a2.chunk.css",
+    "static/js/main.57609fcc.chunk.js"
+  ]
+}
